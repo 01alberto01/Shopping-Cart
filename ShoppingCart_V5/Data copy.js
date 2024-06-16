@@ -1,0 +1,73 @@
+let shopItemsData = [
+  {
+    id: "Cantaloupe",
+    name: "Cantaloupe",
+    price: 22.00,
+    desc: "12pz",
+    img: "Cantaloupe.jpg",
+  },
+  {
+    id: "Honeydew",
+    name: "Honeydew",
+    price: 15.50,
+    desc: "5-6pz",
+    img: "Honeydew.jpg",
+  },
+  {
+    id: "Cucumber",
+    name: "Cucumber",
+    price: 25.00,
+    desc: "1 Bushel",
+    img: "Cucumber.jpg",
+  },
+  {
+    id: "Papaya",
+    name: "Papaya",
+    price: 31.00,
+    desc: "30lbs",
+    img: "Papaya.jpg",
+  },
+
+  {
+    id: "lime",
+    name: "Key-Lime",
+    price: 33,
+    desc: "30-35lbs",
+    img: "Key-Lime.jpg",
+  },
+  {
+    id: "Lime",
+    name: "Persian Lime",
+    price: 35.4,
+    desc: "200CT",
+    img: "Persian-Lime.jpg",
+  },
+  {
+    id: "Strawberry",
+    name: "Frozen Strawberry",
+    price: 33,
+    desc: "24/4oz",
+    img: "Strawberry.jpg",
+  },
+  {
+    id: "Jicama",
+    name: "Jicama",
+    price: 28.5,
+    desc: "40lbs",
+    img: "Jicama.jpg",
+  },
+  {
+    id: "Mango",
+    name: "Mango",
+    price: 13.75,
+    desc: "6CT",
+    img: "Mango.jpg",
+  },
+  {
+    id: "Coconut",
+    name: "Coconut",
+    price: 50,
+    desc: "20CT",
+    img: "Coconut.jpg",
+  },
+];
